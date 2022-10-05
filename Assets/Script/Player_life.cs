@@ -8,6 +8,7 @@ public class Player_life : MonoBehaviour
     private Animator anim;
     private Rigidbody2D rb;
     [SerializeField] private AudioSource dieeffect;
+    [SerializeField] private AudioSource Restartffect;
     private void Start()
     {
         anim = GetComponent<Animator>();
@@ -32,7 +33,7 @@ public class Player_life : MonoBehaviour
     private void RestartLevel()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-
+	  Restartffect.Play();
     }
 
 }

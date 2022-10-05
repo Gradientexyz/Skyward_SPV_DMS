@@ -14,6 +14,7 @@ public class movement : MonoBehaviour
     [SerializeField] private LayerMask jumpableGround;
     private enum MovementState {idle,running,jumping,falling }
     [SerializeField] private AudioSource Jumpeffect;
+    [SerializeField] private AudioSource Falleffect;
     AudioSource Walkeffect;
     private void Start()
     {
@@ -89,7 +90,17 @@ public class movement : MonoBehaviour
         {
             //Caida
 		state = MovementState.falling;
-		
+		if(!Input.GetButtonDown("Jump") && isGrounded()){
+			if (!Falleffect.isPlaying)
+                  {
+				Falleffect.Play();
+			}
+
+		}
+		else	
+		{
+			Falleffect.Stop();
+		}
         }
         anim.SetInteger("state", (int)state);
      

@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: e632712febfdba94cb2e9c6835296469
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -244146561474584337
+    second: idle starfire_0
+  - first:
+      213: -3056117393366095308
+    second: idle starfire_1
+  - first:
+      213: 2356319109067675308
+    second: idle starfire_2
+  - first:
+      213: -8599201701942019311
+    second: idle starfire_3
+  - first:
+      213: -274950193181336387
+    second: idle starfire_4
+  - first:
+      213: 166589763941507464
+    second: idle starfire_5
+  - first:
+      213: 2292069382099216965
+    second: idle starfire_6
+  - first:
+      213: 3681845008765659097
+    second: idle starfire_7
+  - first:
+      213: -780612785556480337
+    second: idle starfire_8
+  - first:
+      213: 7442457944350919094
+    second: idle starfire_9
+  - first:
+      213: 2542460022498387172
+    second: idle starfire_10
+  - first:
+      213: -5984248588364947408
+    second: idle starfire_11
+  - first:
+      213: 601988222978184262
+    second: idle starfire_12
+  - first:
+      213: 3600265661336144563
+    second: idle starfire_13
+  - first:
+      213: 2086933499065584429
+    second: idle starfire_14
+  - first:
+      213: 919803746840998317
+    second: idle starfire_15
+  - first:
+      213: -3136906486059309073
+    second: idle starfire_16
+  - first:
+      213: 973246778521052609
+    second: idle starfire_17
+  - first:
+      213: -6267748329513459472
+    second: idle starfire_18
+  - first:
+      213: 5642943452650763082
+    second: idle starfire_19
+  - first:
+      213: 9103862183985076658
+    second: idle starfire_20
+  - first:
+      213: 8727073014839851856
+    second: idle starfire_21
+  - first:
+      213: -1166362131871608404
+    second: idle starfire_22
+  - first:
+      213: -3602956199270505307
+    second: idle starfire_23
+  - first:
+      213: -1016241627323186222
+    second: idle starfire_24
+  - first:
+      213: 6372954225714768389
+    second: idle starfire_25
+  - first:
+      213: 2955676122938171143
+    second: idle starfire_26
+  - first:
+      213: -7602537091234692330
+    second: idle starfire_27
+  - first:
+      213: -4699318514073179841
+    second: idle starfire_28
+  - first:
+      213: 8109086420563341533
+    second: idle starfire_29
+  - first:
+      213: -1199544822943890467
+    second: idle starfire_30
+  - first:
+      213: -4324101934925073895
+    second: idle starfire_31
+  - first:
+      213: -4537927825903927684
+    second: idle starfire_32
+  - first:
+      213: 230991962842700402
+    second: idle starfire_33
+  - first:
+      213: 3375834554394643599
+    second: idle starfire_34
+  - first:
+      213: -7386426387493735965
+    second: idle starfire_35
+  - first:
+      213: 981116896924899749
+    second: idle starfire_36
+  - first:
+      213: -3664301599612212409
+    second: idle starfire_37
+  - first:
+      213: -261156139176040700
+    second: idle starfire_38
+  - first:
+      213: 2720700999052778668
+    second: idle starfire_39
+  - first:
+      213: -2872388193216101318
+    second: idle starfire_40
+  - first:
+      213: -5581245320491936885
+    second: idle starfire_41
+  - first:
+      213: -9018095343136119771
+    second: idle starfire_42
+  - first:
+      213: 6755382718195958746
+    second: idle starfire_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle starfire_0
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 39
+        width: 218
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 11}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0ac22fefd9c9cf0800000000000000
+      internalID: -244146561474584337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 43
+        width: 212
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a65883c6d7695d0800000000000000
+      internalID: -3056117393366095308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 163
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca69171deb353b020800000000000000
+      internalID: 2356319109067675308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 206
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bbfc3dc9f79a880800000000000000
+      internalID: -8599201701942019311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 43
+        width: 212
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc508c814e2f2cf0800000000000000
+      internalID: -274950193181336387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 40
+        width: 260
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88123f6f188df4200800000000000000
+      internalID: 166589763941507464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_6
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 206
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa29885f01fcf10800000000000000
+      internalID: 2292069382099216965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_7
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 43
+        width: 212
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a589378a881330800000000000000
+      internalID: 3681845008765659097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_8
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 211
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae17c1bec4ba25f0800000000000000
+      internalID: -780612785556480337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_9
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 43
+        width: 212
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b902dc811ce84760800000000000000
+      internalID: 7442457944350919094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_10
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 163
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4e5a08be1a84320800000000000000
+      internalID: 2542460022498387172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_11
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 206
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030efd26d9da3fca0800000000000000
+      internalID: -5984248588364947408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_12
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 43
+        width: 212
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644559d6911ba5800800000000000000
+      internalID: 601988222978184262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_13
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 43
+        width: 222
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba4af04b86b6f130800000000000000
+      internalID: 3600265661336144563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_14
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 205
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bcaa9d5f646fc10800000000000000
+      internalID: 2086933499065584429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_15
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 42
+        width: 212
+        height: 426
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f78962acc3cc00800000000000000
+      internalID: 919803746840998317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 182
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7e0d4cb287774d0800000000000000
+      internalID: -3136906486059309073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 177
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c56a80e9caa18d00800000000000000
+      internalID: 973246778521052609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_18
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 158
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f06dcd2a1c7409a0800000000000000
+      internalID: -6267748329513459472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_19
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 147
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a437dde2c23cf4e40800000000000000
+      internalID: 5642943452650763082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_20
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 177
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9da880c6a675e70800000000000000
+      internalID: 9103862183985076658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_21
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 158
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b3d624baacc1970800000000000000
+      internalID: 8727073014839851856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_22
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 182
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1535a12df30dfe0800000000000000
+      internalID: -1166362131871608404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_23
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 177
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4a0311d6abffdc0800000000000000
+      internalID: -3602956199270505307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_24
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 158
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3cf6dcf9595e1f0800000000000000
+      internalID: -1016241627323186222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_25
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 147
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50aad895a18417850800000000000000
+      internalID: 6372954225714768389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_26
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 176
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f55d226cba40920800000000000000
+      internalID: 2955676122938171143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_27
+      rect:
+        serializedVersion: 2
+        x: 3011
+        y: 157
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6138935abcc5e7690800000000000000
+      internalID: -7602537091234692330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f396042a5baa8ceb0800000000000000
+      internalID: -4699318514073179841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd03f9eb223498070800000000000000
+      internalID: 8109086420563341533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_30
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd34548c65c5a5fe0800000000000000
+      internalID: -1199544822943890467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91236344334bdf3c0800000000000000
+      internalID: -4324101934925073895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_32
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb2a07faa0601c0800000000000000
+      internalID: -4537927825903927684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_33
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a953367f5a43300800000000000000
+      internalID: 230991962842700402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_34
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c8e2b24af59de20800000000000000
+      internalID: 3375834554394643599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_35
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e13dd5e5542e7990800000000000000
+      internalID: -7386426387493735965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_36
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9975c9e90ad9d00800000000000000
+      internalID: 981116896924899749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_37
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be7350c19c52dc0800000000000000
+      internalID: -3664301599612212409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_38
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407ef7500ef206cf0800000000000000
+      internalID: -261156139176040700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_39
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac579cc42fd1c520800000000000000
+      internalID: 2720700999052778668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_40
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a340456282a3328d0800000000000000
+      internalID: -2872388193216101318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_41
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 4
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8354c3a3fe6b82b0800000000000000
+      internalID: -5581245320491936885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_42
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 8
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52464c9b01a49d280800000000000000
+      internalID: -9018095343136119771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle starfire_43
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 3
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad302e76ac0ffbd50800000000000000
+      internalID: 6755382718195958746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cebac024afa8d0246b9b54e96fd0f6b8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle starfire_0: -244146561474584337
+      idle starfire_1: -3056117393366095308
+      idle starfire_10: 2542460022498387172
+      idle starfire_11: -5984248588364947408
+      idle starfire_12: 601988222978184262
+      idle starfire_13: 3600265661336144563
+      idle starfire_14: 2086933499065584429
+      idle starfire_15: 919803746840998317
+      idle starfire_16: -3136906486059309073
+      idle starfire_17: 973246778521052609
+      idle starfire_18: -6267748329513459472
+      idle starfire_19: 5642943452650763082
+      idle starfire_2: 2356319109067675308
+      idle starfire_20: 9103862183985076658
+      idle starfire_21: 8727073014839851856
+      idle starfire_22: -1166362131871608404
+      idle starfire_23: -3602956199270505307
+      idle starfire_24: -1016241627323186222
+      idle starfire_25: 6372954225714768389
+      idle starfire_26: 2955676122938171143
+      idle starfire_27: -7602537091234692330
+      idle starfire_28: -4699318514073179841
+      idle starfire_29: 8109086420563341533
+      idle starfire_3: -8599201701942019311
+      idle starfire_30: -1199544822943890467
+      idle starfire_31: -4324101934925073895
+      idle starfire_32: -4537927825903927684
+      idle starfire_33: 230991962842700402
+      idle starfire_34: 3375834554394643599
+      idle starfire_35: -7386426387493735965
+      idle starfire_36: 981116896924899749
+      idle starfire_37: -3664301599612212409
+      idle starfire_38: -261156139176040700
+      idle starfire_39: 2720700999052778668
+      idle starfire_4: -274950193181336387
+      idle starfire_40: -2872388193216101318
+      idle starfire_41: -5581245320491936885
+      idle starfire_42: -9018095343136119771
+      idle starfire_43: 6755382718195958746
+      idle starfire_5: 166589763941507464
+      idle starfire_6: 2292069382099216965
+      idle starfire_7: 3681845008765659097
+      idle starfire_8: -780612785556480337
+      idle starfire_9: 7442457944350919094
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
